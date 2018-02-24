@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+section.main-background {
+    background: #E5E7E9
+}
+
+h1 {
+    background: #4aaaa5;
+    font-family: serif;
+
+.name {
+    background: #4aaaa5;
+    width: 245px;
+    height: 85px;
+}
+footer {
+    font-size: 13px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #666666;
+    width: 100%;
+    height: 45px;
+    padding-top: 40px;
+}
+hr.footer {
+    background: #4aaaa5;
+}
